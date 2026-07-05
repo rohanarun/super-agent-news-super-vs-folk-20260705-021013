@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3"
+    },
+    {
+      "source": "TradingView",
+      "title": "AI agent development hasn\u2019t accelerated as expected, Zuckerberg says",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGtRZUllbXdTTHpwYktZTU1fQmRyVzFDdXAwczJVdXJhS01wc0FlbFR2Uzk1LS1LYkZDdnJyWjFyRUcwT3BHTHVKVGhIVS1iT0htUTRqeEctVHZSSHNycUxLSXFwOWJOU05FcmQxaWtNV3IzdWszbXZFMkNmV01wT08wSjVXZVlONjRBNlBsS3QyNHpUdC1kMi1obkZZdWZvZEJvMjYtdVZiVi1oWHFjdG1LTDRFNDFOeTdhWGlyaVp5aFlBLW1oVkoxSQ"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg"
+    },
+    {
+      "source": "ALM Corp",
+      "title": "Gemini Can Now Operate Your Computer and Attackers Are Already Adapting",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super vs Folk'+'competitor_comparison'+'people comparing Super with Folk'+'2026-07-05T02:09:25.772655+00:00') -> selected architecture=operator-field-guide, typography=Cabinet Grotesk, components=[decision-matrix, workflow-playbook-timeline, source-card-dossier], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: hero=Attention, comparison+proof=Interest, cache+workflow depth=Desire, CTA band=Action. Font Selection: Cabinet Grotesk (Fontshare). Hero Math Verification: clamp(44px\u201372px), max-width ~1100px for 2\u20133 lines. Bento Density Verification: compare-grid and bento use grid-auto-flow:dense. GSAP Motion Selection: pinned scroll chapters + hover physics guarded. Label Sweep & Button Check: black primary CTA, high-contrast secondary CTA verified.",
+  "generated_at": "2026-07-05T02:10:20.350719+00:00",
+  "headline": "Super vs Folk \u2014 choosing a personal AI agent for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, practical comparison of Super and Folk for people evaluating personal AI agents. This guide explains where Folk fits in the market, why Super\u2019s computer-use cache matters for repeated workflows, and how to evaluate, pilot, and decide with real-world constraints in mind."
+}
